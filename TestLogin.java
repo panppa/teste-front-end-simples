@@ -1,4 +1,4 @@
-public class TesteBuscaCursos {
+public class TestLogin {
 	private WebDriver driver;
 	@Before
 	public void abrirNavegador( ) {
